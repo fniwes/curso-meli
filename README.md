@@ -43,20 +43,24 @@ Por tal motivo, se solicita que el precio de los regalos se obtenga en el moment
 * **Repositorio:** https://github.com/ballcue/cumpleCompany
 
 ### iCro 
-* **Integrantes:**  Uriel Mysler, Jorge Cabrera
+* **Integrantes:**  Uriel Mysler, Jorge Cabrera, Martin Feldsztejn
 * **Repositorio:** https://github.com/jorgecabrera/meli-regalos.git
+* **Fork:** https://github.com/jorgecabrera/proyecto-grails-meli.git
 
 ### Team42 
 * **Integrantes:**  Eric Brandwein, Diego Sebastian García
 * **Repositorio:** https://github.com/garciadiegosebastian/organizadorDeRegalos
+* **Fork:** https://github.com/ericbrandwein/cumples
 
 ### blancoYdorado 
 * **Integrantes:**  Kenneth Weinberg Waks, Candelaria Campos
 * **Repositorio:** https://github.com/candecp/cumples.git
+* **Fork:** https://github.com/kwwaks/aplicacion-meli
 
 ### aplicacion-meli
 * **Integrantes:**  Ayelen Tolay, Lucas Rossi, Francisco Curdi
 * **Repositorio:** https://github.com/lucasr20/aplicacion-meli
+* **Fork:** https://github.com/lucasr20/organizadorDeRegalos
 
 ### Grupo1
 * **Integrantes:**  Nicolás De Giácomo, Pablo Gallazzi
