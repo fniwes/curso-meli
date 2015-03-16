@@ -41,7 +41,7 @@ Por tal motivo, se solicita que el precio de los regalos se obtenga en el moment
 ### Blackhat 
 * **Integrantes:**  Guido Arnone, Shai Bianchi
 * **Repositorio:** https://github.com/ballcue/cumpleCompany
-* **Fork:** https://github.com/guidoarnone/meli-regalos-fork
+* **Fork:** https://github.com/guidoarnone/meli-regalos-forked
 
 ### iCro 
 * **Integrantes:**  Uriel Mysler, Jorge Cabrera, Martin Feldsztejn
