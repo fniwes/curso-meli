@@ -66,4 +66,4 @@ Por tal motivo, se solicita que el precio de los regalos se obtenga en el moment
 ### Grupo1
 * **Integrantes:**  Nicolás De Giácomo, Pablo Gallazzi
 * **Repositorio:** https://github.com/PabloGallazzi/proyecto-grails-meli
-* **Fork:** https://github.com/ballcue/cumpleCompany
+* **Fork:** https://github.com/PabloGallazzi/cumpleCompany
