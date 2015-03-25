@@ -32,7 +32,7 @@ En el futuro MercadoLibre decide que una publicación puede cambiar de precio. E
 
 Por tal motivo, se solicita que el precio de los regalos se obtenga en el momento de generar el envio de emails. No antes.
 
-## Integrantes y grupos
+## Integrantes y grupos primer TP
 
 ### Meteoro 
 * **Integrantes:**  Renzo Avila, Juan Lopez, Barbara Allegretti, Diego Abdala
@@ -67,3 +67,20 @@ Por tal motivo, se solicita que el precio de los regalos se obtenga en el moment
 * **Integrantes:**  Nicolás De Giácomo, Pablo Gallazzi
 * **Repositorio:** https://github.com/PabloGallazzi/proyecto-grails-meli
 * **Fork:** https://github.com/PabloGallazzi/cumpleCompany
+
+
+## Integrante y grupos segundo TP
+
+### Nicolás De Giácomo - Pablo Gallazzi - Uriel Mysler
+* https://github.com/PabloGallazzi/MeliBook
+
+### Eric Brandwein - Francisco Curdi - Lucas Rossi - Shai Bianchi
+* https://github.com/lucasr20/lefrage
+
+### Guido Arnone - Candelaria Campos - Kenneth Weinberg Waks - Jorge Cabrera
+* https://github.com/jorgecabrera/MeliStats
+
+### Agustin Mounier - Ayelen Tolay - Martin Feldsztejn - Sebastian García
+* https://github.com/martofeld/meliBook
+
+
